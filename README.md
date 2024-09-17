@@ -1,7 +1,7 @@
 # Project Proposal
 
 ## Project Title
-FocusBoost
+focusBoost
 
 ## What and Why?
 FocusBoost is a web application designed to enhance productivity among especially among students. In today's digital era, many students struggle to maintain focus due to distractions from social media and other online tools, which can lead to decreased academic performance. FocusBoost aims to address this issue by providing a comprehensive solution that tracks time spent on productive versus non-productive activities. By offering insights into a user habits, this application helps students identify their distractions and show how they can improve their productivity levels.
